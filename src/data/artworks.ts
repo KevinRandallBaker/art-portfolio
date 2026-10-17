@@ -35,15 +35,15 @@ export interface Artwork {
 }
 
 export const artist: Artist = {
-  name: 'Rosa Vermillion',
+  name: 'Anayeli Sanchez',
   tagline: 'Painter & printmaker exploring warmth, memory and color.',
   location: 'Portland, Oregon',
   email: 'hello@rosavermillion.art',
   year: 2026,
   shortBio:
-    'Rosa Vermillion is a multidisciplinary artist whose work lives somewhere between soft and loud — blush-toned grounds interrupted by bold strokes of red. Working across acrylic, gouache, ink and printmaking, she builds images out of rhythm, repetition and the small rituals of everyday life.',
+    'Anayeli Sanchez is a multidisciplinary artist whose work lives somewhere between soft and loud — blush-toned grounds interrupted by bold strokes of red. Working across acrylic, gouache, ink and printmaking, she builds images out of rhythm, repetition and the small rituals of everyday life.',
   bio: [
-    'Rosa Vermillion grew up surrounded by her grandmother’s rose garden, and that palette has never left her. After studying painting and printmaking, she spent several years working as a muralist before returning to the studio to focus on smaller, more intimate pieces.',
+    'Anayeli Sanchez grew up surrounded by her grandmother’s rose garden, and that palette has never left her. After studying painting and printmaking, she spent several years working as a muralist before returning to the studio to focus on smaller, more intimate pieces.',
     'Her practice centers on color as emotion. Pale pinks become quiet, breathing space; bright reds become urgency, love and heat. She works in series, often revisiting a single motif — a flower, a window, a wave — until it becomes something new.',
     'Her work has been exhibited in group shows across the Pacific Northwest and is held in private collections in the US, Canada and Japan. She is currently available for commissions.',
   ],

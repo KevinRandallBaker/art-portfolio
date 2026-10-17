@@ -5,7 +5,7 @@ const portrait = artworks.find((artwork) => artwork.id === 'portrait-in-rose');
 export default function About() {
   return (
     <section className="section">
-      <title>About — Rosa Vermillion</title>
+      <title>About — Anayeli Sanchez</title>
       <header className="page-header">
         <h1>About</h1>
         <p className="lead">{artist.tagline}</p>
