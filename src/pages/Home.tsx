@@ -8,7 +8,7 @@ const heroArtwork = featured[0] ?? artworks[0];
 export default function Home() {
   return (
     <>
-      <title>Rosa Vermillion — Art Portfolio</title>
+      <title>Anayeli Sanchez — Art Portfolio</title>
       <section className="hero">
         <div className="hero-text">
           <p className="eyebrow">Artist portfolio</p>

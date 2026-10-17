@@ -24,7 +24,7 @@ export default function Gallery() {
 
   return (
     <section className="section">
-      <title>Gallery — Rosa Vermillion</title>
+      <title>Gallery — Anayeli Sanchez</title>
       <header className="page-header">
         <h1>Gallery</h1>
         <p className="lead">Paintings, prints and studies — click any piece to see it larger.</p>
