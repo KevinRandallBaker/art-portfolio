@@ -18,8 +18,8 @@
 
   --radius: 14px;
   --shadow: 0 14px 34px -14px rgb(0 0 0 / 0.7);
-  --font-display: 'Jost', system-ui, -apple-system, sans-serif;
-  --font-body: 'Jost', system-ui, -apple-system, sans-serif;
+  --font-display: 'Questrial', sans-serif;
+  --font-body: 'Questrial', sans-serif;
 
   color-scheme: dark;
 }
